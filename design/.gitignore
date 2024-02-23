@@ -1,2 +1,5 @@
-/Pcam5c/
 /.Xil/
+/Pcam5c/*
+!/Pcam5c/auto.xdc
+!/Pcam5c/timing.xdc
+!/Pcam5c/ZyboZ7_A.xdc
