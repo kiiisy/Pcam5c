@@ -1,4 +1,5 @@
 /.Xil/
+/NONE/
 /Pcam5c/*
 !/Pcam5c/auto.xdc
 !/Pcam5c/timing.xdc
